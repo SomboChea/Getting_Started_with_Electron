@@ -1,0 +1,10 @@
+{
+  "name": "getting_started_with_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Sambo Chea",
+  "license": "MIT"
+}
